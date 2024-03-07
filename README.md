@@ -13,4 +13,4 @@ git checkout <feat branch name>
 git show <commit id>
 git tag <tag name> <commit id>
 git cherry-pick <commit id>^..<commit id>
-git log --author <"author name"> --since=<"yyyy-mm--dd"> --until=<"yyyy-mm--dd">
+git log --author<"author name"> --since=<"yyyy-mm--dd"> --until=<"yyyy-mm--dd">
